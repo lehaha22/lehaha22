@@ -10,14 +10,11 @@
     <a title="telegram" target="_blank" href="https://t.me/lelea88"><img src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white" ></a>
     <a title="gmail" target="_blank" href="zhaoleale@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=white" ></a>
     <a title="bilibili" target="_blank" href="https://space.bilibili.com/480753188"><img src="https://img.shields.io/badge/bilibili_-00A1D6?logo=bilibili&logoColor=white" ></a>
-    
+
 </p>
 
 ![](https://raw.githubusercontent.com/lehaha22/lehaha22/main/dist/github-contribution-grid-snake.svg)
 
-## 📈Statistics
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✨ Quick Facts
 
@@ -29,11 +26,20 @@
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: aman.atg001@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
+
+
+
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lehaha22&show_icons=true&theme=radical" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehaha22&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
+
+
+## 📈Statistics
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
@@ -103,10 +109,3 @@
 ![AstonMartin](https://img.shields.io/badge/AstonMartin-000000?style=flat-square&logo=AstonMartin&logoColor=white)
 ![Audi](https://img.shields.io/badge/Audi-BB0A30?style=flat-square&logo=Audi&logoColor=white)
 ![Mercedes](https://img.shields.io/badge/Mercedes-242424?style=flat-square&logo=Mercedes&logoColor=white)
-
-## 📧Contact me:
-- Personal website: [![website](https://img.shields.io/badge/fjqz177.top-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://fjqz177.top)
-- Twitter: [![Twitter](https://img.shields.io/badge/@fjqz177-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fjqz177) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@fjqz177-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/5862441076)
-- Email: [![Email](https://img.shields.io/badge/fjqz177@139.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fjqz177@139.com)
-
