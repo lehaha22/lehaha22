@@ -16,14 +16,23 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--   profile-night-rainbow.svg -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+### ✨ Quick Facts
 
+- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
+- 🌱 I’m currently learning React-Native and Animation
+- 🤔 I’m looking for help for my future MERN projects
+- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- ⚡️ Fun-Fact: I sleep at 6am 🙃
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
+- 📫 How to reach me: aman.atg001@gmail.com
+- 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=lehaha22&show_icons=true&theme=radical" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehaha22&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
+
+
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" />
@@ -38,16 +47,16 @@
 
 
 ## 🛠️Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab_-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=Gitee&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Bing](https://img.shields.io/badge/Bing-258FFA?style=flat-square&logo=MicrosoftBing&logoColor=white)
+![Goland](https://img.shields.io/badge/Goland_-000000?style=flat-square&logo=goland&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
