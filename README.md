@@ -31,21 +31,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=lehaha22&show_icons=true&theme=radical" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehaha22&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
+<div align="left">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lehaha22&show_icons=true&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehaha22&layout=compact&langs_count=8" />
 </div>
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=lehaha22&row=1" />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehaha22&row=1" />
 </div>
-
-
-
-
-
 
 
 
