@@ -27,7 +27,9 @@
 - 📫 How to reach me: aman.atg001@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
 
+## 📈Statistics
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <span>&emsp;&emsp;</span>
@@ -35,18 +37,18 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-
-## 📈Statistics
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" />
     <img  src="https://github-profile-trophy.vercel.app/?username=lehaha22&row=1" />
 </div>
+
+
+
+
+
+
+
+
 
 ## 🖌️Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
