@@ -31,16 +31,32 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lehaha22&show_icons=true&theme=radical" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehaha22&layout=compact&langs_count=8" />
-</div>
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lehaha22&row=1" />
-</div>
+<p align="center">
+  <!--- stats (start) -->
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=lehaha22&show_icons=true&theme=radical" style="border: none;" />
+        <br></br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" style="border: none;" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehaha22&layout=compact&langs_count=8" style="border: none;" />
+      </td>
+    </tr>
+  </table>
+  <!--- stats (end) -->
 
+
+  <!--- trophy (start) -->
+  <div align="center" style="border: none;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=lehaha22&row=1" alt="TROPHY" style="border: none;" />
+    </a>
+  </div>
+  <!--- trophy (end) -->
+</p>
 
 
 
@@ -67,11 +83,7 @@
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
 ![AdobePremierePro](https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)
 
-## 🛠️Software:
-![Alipay](https://img.shields.io/badge/Alipay-00A1E9?style=flat-square&logo=Alipay&logoColor=white)
-![QQ](https://img.shields.io/badge/QQ-EB1923?style=flat-square&logo=TencentQQ&logoColor=white)
-![Qzone](https://img.shields.io/badge/Qzone-FECE00?style=flat-square&logo=Qzone&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)
+
 
 ## 🎮️Gaming:
 ![Counter-Strike](https://img.shields.io/badge/Counter-Strike-000000?style=flat-square&logo=Counter-Strike&logoColor=white)
