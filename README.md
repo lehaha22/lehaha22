@@ -39,7 +39,7 @@
       <td width="50%" align="center" style="border: none;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=lehaha22&show_icons=true&theme=radical" style="border: none;" />
         <br></br>
-        <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" style="border: none;" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" style="border: none;" />
       </td>
       <td width="50%" align="center" style="border: none;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehaha22&layout=compact&langs_count=8" style="border: none;" />
