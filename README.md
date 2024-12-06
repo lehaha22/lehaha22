@@ -32,6 +32,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
 <p align="center">
   <!--- stats (start) -->
   <table align="center" style="border-collapse: collapse; border: none;">
@@ -42,7 +43,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lehaha22" style="border: none;" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehaha22&layout=compact&langs_count=8" style="border: none;" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lehaha22&layout=compact&langs_count=8&card_width=320" style="border: none;" />
       </td>
     </tr>
   </table>
