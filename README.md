@@ -1,66 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=280&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descAlign=62" width="100%"/>
-</div>
-
-<div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=SRE+Engineer+%7C+DevOps+Practitioner;Python+%26+Go+Developer;Cloud+Native+Enthusiast;Automating+Everything..." alt="Typing SVG" />
-  </a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=35&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zhao+Le" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zhao+Le" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=35&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zhao+Le" />
+  </picture>
+  
+  <br/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="180">
+  <br/>
   <br/>
 
-  <p>
-    <a href="mailto:你的邮箱@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://blog.csdn.net/你的ID">
-      <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/>
-    </a>
-    <a href="https://twitter.com/你的ID">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Senior+SRE+Engineer+%7C+10+Years+Exp" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=25&lines=Senior+SRE+Engineer+%7C+10+Years+Exp" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Senior+SRE+Engineer+%7C+10+Years+Exp" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Cloud+Native+%26+DevOps+Practitioner" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=25&lines=Cloud+Native+%26+DevOps+Practitioner" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Cloud+Native+%26+DevOps+Practitioner" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Focusing+on+Automation+%26+Stability" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=25&lines=Focusing+on+Automation+%26+Stability" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Focusing+on+Automation+%26+Stability" />
+  </picture>
 </div>
 
----
+<br />
 
-### 👨‍💻 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=About+Me" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=About+Me" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=About+Me" />
+</picture>
 
-- 🔭 I’m currently working on **Enterprise Cloud Native Operations System (SRE Platform)**.
-- 🌱 I’m currently learning **eBPF & Rust for advanced observability**.
-- ⚙️ I use daily: `.py`, `.go`, `.yaml`, `.sh`.
-- 💬 Ask me about **Kubernetes, Prometheus, DevOps Architecture**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=16&duration=1000&pause=1000&color=FFFFFF&multiline=true&width=600&height=50&lines=Passionate+about+building+scalable+SRE+platforms%2C+automating+infrastructure%2C+and+exploring+eBPF+technologies." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=16&duration=1000&pause=1000&color=000000&multiline=true&width=600&height=50&lines=Passionate+about+building+scalable+SRE+platforms%2C+automating+infrastructure%2C+and+exploring+eBPF+technologies." />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=16&duration=1000&pause=1000&color=FFFFFF&multiline=true&width=600&height=50&lines=Passionate+about+building+scalable+SRE+platforms%2C+automating+infrastructure%2C+and+exploring+eBPF+technologies." />
+</picture>
 
----
+<br />
+<br />
 
-### 🛠️ Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=Tech+Stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=Tech+Stack" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=Tech+Stack" />
+</picture>
+<br />
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Cloud Native** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/-Elastic-005571?style=flat&logo=elasticsearch&logoColor=white) |
+| **Dev Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) |
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=Key+Projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=Key+Projects" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=Key+Projects" />
+</picture>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,react,vue,docker,kubernetes,ansible,terraform,prometheus,grafana,mysql,redis,git,linux,vscode,vim&perline=8" />
+  <a href="https://github.com/[你的用户名]/[你的仓库名1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的用户名]&repo=[你的仓库名1]&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/[你的用户名]/[你的仓库名2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的用户名]&repo=[你的仓库名2]&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/[你的用户名]/[你的仓库名3]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的用户名]&repo=[你的仓库名3]&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/[你的用户名]/[你的仓库名4]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的用户名]&repo=[你的仓库名4]&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
 </div>
 
-<br/>
+<br />
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-
-</div>
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
+</picture>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[你的用户名]&theme=radical&hide_border=true" alt="streak stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[你的用户名]&label=Profile%20Views&color=blue&style=flat" alt="visitor badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" alt="languages graph" />
 </div>
