@@ -26,15 +26,6 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
-</picture>
-
-<br />
-<br />
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=About+Me" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=About+Me" />
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=About+Me" />
@@ -66,18 +57,18 @@
 <br />
 <br />
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br />
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=How+to+reach+me" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=How+to+reach+me" />
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=How+to+reach+me" />
 </picture>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" height="150" alt="stats graph" />
-</div>
-
-
 
 <div align="center">
   <a href="mailto:zhaoleale@gmail.com">
