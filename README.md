@@ -21,12 +21,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=25&lines=Cloud+Native+%26+DevOps+Practitioner" />
     <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Cloud+Native+%26+DevOps+Practitioner" />
   </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Focusing+on+Automation+%26+Stability" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=25&lines=Focusing+on+Automation+%26+Stability" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=18&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=25&lines=Focusing+on+Automation+%26+Stability" />
-  </picture>
 </div>
 
 <br />
@@ -63,37 +57,41 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=Key+Projects" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=Key+Projects" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=Key+Projects" />
-</picture>
-
-<div align="center">
-  <a href="https://github.com/[你的用户名]/[你的仓库名1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的用户名]&repo=[你的仓库名1]&theme=tokyonight&hide_border=true&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/[你的用户名]/[你的仓库名2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的用户名]&repo=[你的仓库名2]&theme=tokyonight&hide_border=true&description_lines_count=2" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/[你的用户名]/[你的仓库名3]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的用户名]&repo=[你的仓库名3]&theme=tokyonight&hide_border=true&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/[你的用户名]/[你的仓库名4]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的用户名]&repo=[你的仓库名4]&theme=tokyonight&hide_border=true&description_lines_count=2" />
-  </a>
-</div>
-
-<br />
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaoleale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoleale&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" alt="languages graph" />
+</div>
+
+<br />
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=How+to+reach+me" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=How+to+reach+me" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=How+to+reach+me" />
+</picture>
+
+<div align="center">
+  <p>
+    <a href="mailto:zhaoleale@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="#">
+      <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="#">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="#">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
