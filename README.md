@@ -31,11 +31,6 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=GitHub+Analytics" />
 </picture>
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lehaha22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lehaha22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" height="150" alt="languages graph" />
-</div>
-
 <br />
 <br />
 
@@ -76,6 +71,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=000000&repeat=false&width=600&height=35&lines=How+to+reach+me" />
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=600&height=35&lines=How+to+reach+me" />
 </picture>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lehaha22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" height="150" alt="stats graph" />
+</div>
+
+
 
 <div align="center">
   <a href="mailto:zhaoleale@gmail.com">
