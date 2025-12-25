@@ -71,19 +71,20 @@
 </picture>
 
 <div align="center">
-  <a href="mailto:zhaoleale@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/nitinsinghr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/CSDN-FC5531?style=flat&logo=csdn&logoColor=white" alt="CSDN" />
+  <a href="https://www.instagram.com/ni.3.singh?igsh=eGlrNTJmajd2aDRk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://discord.com/channels/780066247601291285/@home" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://youtube.com/@NitinSinghCreation?si=ipFZhXw8rbZ8Epyq" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <!-- <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a> -->
+  <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
 </div>
